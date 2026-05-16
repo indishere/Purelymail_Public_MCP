@@ -1,2 +1,5 @@
-# Purelymail_Public_MCP
-This is the MCP server for purelymail.com. Feel free to collaborate and contribute.
+# Purelymail Public MCP
+
+This is a unofficial MCP server for purelymail.com as purelymail didn't had one. 
+
+Feel free to collaborate and contribute.
